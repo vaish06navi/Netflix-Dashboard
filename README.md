@@ -1,5 +1,5 @@
 # Netflix Customer Analysis Dashboard Using Tableau
-This project focuses on creating a dashboard using Tableau to analyze and visualize various aspects of Netflix content. The objective of this project is to provide insights into the distribution of movies and TV shows, explore trends over the years, analyze content by country and genre, and examine ratings, descriptions, durations, and other attributes. The dashboard aims to provide an interactive and visually appealing representation of Netflix data.
+This project centers on crafting a dashboard using Tableau to delve into the analysis and visualization of diverse facets of Netflix content. The aim is to offer insights into the distribution of movies and TV shows, track trends over time, dissect content by country and genre, and scrutinize ratings, descriptions, durations, and other attributes. The dashboard strives to deliver an interactive and visually captivating portrayal of Netflix data.
 
 # Table of Contents
 - Description
@@ -8,16 +8,16 @@ This project focuses on creating a dashboard using Tableau to analyze and visual
 - Screenshots
 - Usage
 
-
 # Description
-The Netflix Data Analysis project utilizes Tableau to create interactive visualizations and dashboards based on the Netflix dataset. It provides insights into different aspects such as content distribution, genres, release dates, and ratings.
 
-The project includes various visualizations to answer questions like:
+The Netflix Data Analysis project leverages Tableau to construct interactive visualizations and dashboards derived from the Netflix dataset. It offers insights into various aspects including content distribution, genres, release dates, and ratings
 
-- What are the most common genres in the Netflix library?
-- How has the content distribution changed over the years?
-- Which countries have the highest number of Netflix titles?
-- What is the average rating of movies and TV shows on Netflix?
+The project encompasses a range of visualizations aimed at addressing questions such as:
+
+- What are the most prevalent genres in the Netflix library?
+- How has the distribution of content evolved over the years?
+- Which countries boast the highest number of Netflix titles?
+- What is the average rating of movies and TV shows available on Netflix?
 
 # Dataset
 The dataset used for this project is the Netflix Movies and TV Shows dataset available on Kaggle. It contains information about various movies and TV shows available on Netflix, including attributes like title, director, cast, country, release year, rating, and more.
@@ -25,7 +25,7 @@ The dataset used for this project is the Netflix Movies and TV Shows dataset ava
 # Installation
 To run this project locally, follow these steps:
 
-- Clone the repository: git clone https://github.com/shaadclt/Netflix-Data-Analysis-Tableau.git
+- Clone the repository: [git clone https://github.com/shaadclt/Netflix-Data-Analysis-Tableau.git](https://github.com/vaish06navi/Netflix-Dashboard/blob/main/README.md)
 - Navigate to the project directory: cd Netflix-Data-Analysis-Tableau
 - Open Tableau and import the dataset (netflix_titles.csv) into your Tableau workspace.
 - Explore the Tableau workbook (Netflix Dashboard.twbx) to view the visualizations and dashboards.
@@ -50,11 +50,12 @@ Screenshot 5:
 
 
 # Usage
-To use this project as a starting point for your own data analysis or to enhance the existing visualizations, you can:
 
-- Open the Tableau workbook (Netflix Dashboard.twbx) in Tableau Desktop or Tableau Public.
-- Modify the existing visualizations or create new ones based on your requirements.
-- Customize the dashboards and layout to present your insights effectively.
+To utilize this project as a foundation for your own data analysis or to enhance the current visualizations, you can follow these steps:
+
+- Open the Tableau workbook named "Netflix Dashboard.twbx" in Tableau Desktop or Tableau Public.
+- Adjust the existing visualizations according to your needs or generate new ones based on your specific requirements.
+- Tailor the dashboards and layout to effectively present your insights and findings.
 
 # Thank you :)
 
