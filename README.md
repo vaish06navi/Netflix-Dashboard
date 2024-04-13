@@ -1,4 +1,4 @@
-![image](https://github.com/vaish06navi/Netflix-Dashboard/assets/132326467/272b6315-0c36-4af7-9776-4799b6883804)# Netflix-Dashboard
+# Netflix Customer Analysis Dashboard Using Tableau
 The dashboard showcases Netflix's TV shows and movies catalog across different countries.
 
 # Table of Contents
