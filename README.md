@@ -7,6 +7,7 @@ This project centers on crafting a dashboard using Tableau to delve into the ana
 - Installation
 - Screenshots
 - Usage
+- End Results
 
 # Description
 
@@ -56,6 +57,10 @@ To utilize this project as a foundation for your own data analysis or to enhance
 - Open the Tableau workbook named "Netflix Dashboard.twbx" in Tableau Desktop or Tableau Public.
 - Adjust the existing visualizations according to your needs or generate new ones based on your specific requirements.
 - Tailor the dashboards and layout to effectively present your insights and findings.
+
+# Final Netflix Dashboard
+![image](https://github.com/vaish06navi/Netflix-Dashboard/assets/132326467/04231d53-79b2-4aa5-acec-f3024979655b)
+
 
 # Thank you :)
 
