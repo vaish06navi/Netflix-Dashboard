@@ -1,5 +1,5 @@
 # Netflix Customer Analysis Dashboard Using Tableau
-The dashboard showcases Netflix's TV shows and movies catalog across different countries.
+This project focuses on creating a dashboard using Tableau to analyze and visualize various aspects of Netflix content. The objective of this project is to provide insights into the distribution of movies and TV shows, explore trends over the years, analyze content by country and genre, and examine ratings, descriptions, durations, and other attributes. The dashboard aims to provide an interactive and visually appealing representation of Netflix data.
 
 # Table of Contents
 - Description
