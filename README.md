@@ -25,7 +25,7 @@ The dataset used for this project is the Netflix Movies and TV Shows dataset ava
 # Installation
 To run this project locally, follow these steps:
 
-- Clone the repository: [git clone https://github.com/shaadclt/Netflix-Data-Analysis-Tableau.git](https://github.com/vaish06navi/Netflix-Dashboard/blob/main/README.md)
+- Clone the repository
 - Navigate to the project directory: cd Netflix-Data-Analysis-Tableau
 - Open Tableau and import the dataset (netflix_titles.csv) into your Tableau workspace.
 - Explore the Tableau workbook (Netflix Dashboard.twbx) to view the visualizations and dashboards.
