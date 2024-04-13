@@ -2,12 +2,12 @@
 The dashboard showcases Netflix's TV shows and movies catalog across different countries.
 
 # Table of Contents
-Description
-Dataset
-Installation
-Usage
-Contributing
-License
+- Description
+- Dataset
+- Installation
+- Screenshots
+- Usage
+
 
 # Description
 The Netflix Data Analysis project utilizes Tableau to create interactive visualizations and dashboards based on the Netflix dataset. It provides insights into different aspects such as content distribution, genres, release dates, and ratings.
@@ -25,10 +25,10 @@ The dataset used for this project is the Netflix Movies and TV Shows dataset ava
 # Installation
 To run this project locally, follow these steps:
 
-1.Clone the repository: git clone https://github.com/shaadclt/Netflix-Data-Analysis-Tableau.git
-2.Navigate to the project directory: cd Netflix-Data-Analysis-Tableau
-3.Open Tableau and import the dataset (netflix_titles.csv) into your Tableau workspace.
-4.Explore the Tableau workbook (Netflix Dashboard.twbx) to view the visualizations and dashboards.
+- Clone the repository: git clone https://github.com/shaadclt/Netflix-Data-Analysis-Tableau.git
+- Navigate to the project directory: cd Netflix-Data-Analysis-Tableau
+- Open Tableau and import the dataset (netflix_titles.csv) into your Tableau workspace.
+- Explore the Tableau workbook (Netflix Dashboard.twbx) to view the visualizations and dashboards.
 Note: You need to have Tableau Desktop or Tableau Public installed to open and interact with the Tableau workbook.
 
 I'm Adding Screenshots of the worksheets I've used while building the dashboard.
@@ -52,9 +52,9 @@ Screenshot 5:
 # Usage
 To use this project as a starting point for your own data analysis or to enhance the existing visualizations, you can:
 
-1.Open the Tableau workbook (Netflix Dashboard.twbx) in Tableau Desktop or Tableau Public.
-2.Modify the existing visualizations or create new ones based on your requirements.
-3.Customize the dashboards and layout to present your insights effectively.
+- Open the Tableau workbook (Netflix Dashboard.twbx) in Tableau Desktop or Tableau Public.
+- Modify the existing visualizations or create new ones based on your requirements.
+- Customize the dashboards and layout to present your insights effectively.
 
 # Thank you :)
 
